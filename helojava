@@ -1,0 +1,4 @@
+public class helojava{
+public static void main(String args[]){
+System.out.println(" Afraaz First Repository");
+}
